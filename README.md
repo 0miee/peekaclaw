@@ -143,10 +143,13 @@ peekaclaw/
 
 ---
 
+## Origin
+
+PeekAClaw was born from [Hanna](https://openclaw.ai) — a personal AI agent built on [OpenClaw](https://openclaw.ai). Watching Hanna and her subagents work in parallel made us want to *see* what they were thinking. This is that project.
+
 ## Related Projects
-- Fry Lab: `/home/ohm/.openclaw/workspace/projects/command-center/`
-- Session logs: `~/.openclaw/agents/main/sessions/`
-- OpenClaw session format docs: `~/.npm-global/lib/node_modules/openclaw/docs/`
+- [OpenClaw](https://openclaw.ai) — the personal AI agent framework PeekAClaw was designed for
+- OpenClaw session format docs: `~/.npm-global/lib/node_modules/openclaw/docs/` (if you have OpenClaw installed)
 
 ---
 
